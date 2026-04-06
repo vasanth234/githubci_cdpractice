@@ -3,7 +3,7 @@ name: Simple Node Test
 on:
   push:
     branches:
-      - feature/test-actions
+      - temp
 
 jobs:
   test:
